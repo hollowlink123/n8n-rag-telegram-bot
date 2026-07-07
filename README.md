@@ -13,7 +13,8 @@ When someone messages your Telegram bot, n8n finds the relevant chunks from Pine
 If the answer isn't in the documents, the bot says: "I don't have that information in the documents. Please contact support for help."
 
 ## Screenshot
-<img width="1357" height="618" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/54348a1e-0488-4991-8120-2db2d4352e56" />
+<img width="1016" height="422" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/b08bc36e-d574-4edc-8d13-a66f58a88809" />
+
 
 
 ## Repository Structure
