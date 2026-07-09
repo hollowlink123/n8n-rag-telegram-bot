@@ -56,3 +56,7 @@ If the answer isn't in the documents, the bot says: "I don't have that informati
 - Embeddings Google Gemini1 - creates query embeddings
 - Google Gemini Chat Model - writes the replies
 - Send a text message - sends answers back to Telegram
+- 
+📄 License
+
+- This project is released under the MIT License. Feel free to fork, modify, and contribute.
